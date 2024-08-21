@@ -1,0 +1,17 @@
+.custom-link {
+    color: #1d3d88 !important; /* Barva odkazu */
+    text-decoration: underline !important; /* Podtržení odkazu */
+  }
+  
+  .custom-link:hover {
+    color: #a9a6a6 !important; /* Barva odkazu při hoveru */
+  }
+
+  .custom-display-6 {
+    font-size: 0.99rem;
+}
+
+  .statistics-button-size {
+    width: 15% !important;
+    height: 90% !important;
+  }
